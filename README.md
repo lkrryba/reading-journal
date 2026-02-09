@@ -6,9 +6,9 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 **Re-reads: 28**  
 **Works by family members: 2** (Joe Marler and Richard Wicker)
 
-🎧 = audio book  
-🔁 = re-read
-💙 = author is a family member
+- 🎧 = audio book  
+- 🔁 = re-read
+- 💙 = author is a family member
 ---
 
 ## 2026
