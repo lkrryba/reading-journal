@@ -1,6 +1,8 @@
 # 📚 Leanne's Reading Journal
 
-A chronicle of literary adventures, page-turners, and wonderful discoveries.
+A chronicle of literary adventures, page-turners, and wonderful discoveries. 
+
+🎧 = audio book
 
 ---
 
@@ -64,11 +66,11 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 7. 🏪 **Nakano Thrift Shop** by Hiromi Kawakami ~ Tokyo thrift store full of quirky finds and connections
 8. 💀 **A Fatal Inheritance** by Rachel Rhys ~ 1948 French Riviera glamour meets murder mystery
 9. 🐦‍⬛ **Raven Black** by Ann Cleeves ~ Atmospheric Shetland mystery where landscape tells its own story
-10. 🧠 **The Whole-Brain Child** by Daniel J. Siegel (audio) ~ Parenting science that actually makes sense
-11. 📝 **Yellowface** by R.F. Kuang (audio) ~ Sharp commentary on literary authenticity and cultural appropriation
-12. 🏝️ **The Satsuma Complex** by Bob Mortimer (audio) ~ Quirky mystery set in England
-13. 👑 **Queenie** by Candice Carty-Williams (audio) ~ Jamaican-British woman navigates identity and belonging in London
-14. 🔎 **The Man Who Died Twice** by Richard Osman (audio) ~ Thursday Murder Club's second clever adventure
+10. 🧠 **The Whole-Brain Child** by Daniel J. Siegel 🎧 ~ Parenting science that actually makes sense
+11. 📝 **Yellowface** by R.F. Kuang 🎧 ~ Sharp commentary on literary authenticity and cultural appropriation
+12. 🏝️ **The Satsuma Complex** by Bob Mortimer 🎧 ~ Quirky mystery set in England
+13. 👑 **Queenie** by Candice Carty-Williams 🎧 ~ Jamaican-British woman navigates identity and belonging in London
+14. 🔎 **The Man Who Died Twice** by Richard Osman 🎧 ~ Thursday Murder Club's second clever adventure
 15. 🖕 **The Good Girl's Guide to Being a Dick** by Kat Brown ~ Permission to set boundaries and prioritize yourself
 16. 🧼 **How to Keep House While Drowning** by KC Davis ~ Compassionate approach to home care when life is overwhelming
 17. 🎯 **The Bullet That Missed** by Richard Osman ~ Thursday Murder Club tackles another clever case
