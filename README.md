@@ -142,7 +142,7 @@ And more, list is a WIP.
 17. 🔮 **The Premonition Bureau** by Sam Knight ~ WWII mass observation meets precognition research
 18. 💬 **Loaded Language** by Ali Almossawi ~ An illustrated book using pen-and-ink drawings and a metaphorical conflict between badgers and rabbits
 19. 🐱 **Catology** by Various ~ Understanding the fascinating science of cats
-20. 👭 🔁 **Sista, Sister** by Candice Brathwaite ~ All the things the author wishes she'd been told when she was young and needed guidance
+20. 👭 **Sista, Sister** by Candice Brathwaite ~ All the things the author wishes she'd been told when she was young and needed guidance
 21. 🌏 **Ponti** by Sharlene Teo ~ Singapore ghost story about mothers and daughters
 22. 🪄 **Treacle Walker** by Alan Garner ~ Mystical novella blending folklore and magic
 23. 🔥 **Heatwave** by Victor Jestin ~ French teen's transformative summer
