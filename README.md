@@ -27,26 +27,26 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 5. ⚔️ **The Count of Monte Cristo** by Alexandre Dumas ~ An epic tale of betrayal, redemption, and the long game
 6. 🗑️ **Goodbye Things** by Fumio Sasaki ~ Japanese minimalism and finding freedom through simplicity
 7. 📦 **The Art of Discarding** by Nagisa Tatsumi ~ Practical wisdom on letting go of what doesn't serve you
-8. 🧊 **Death in the Arctic** by Wilfred Grenfell ~ Survival tale of resilience in extreme conditions
+8. 🧊 **Death in the Arctic** by Tom Hindle ~ Whodunnit set on an airship over icy plains
 9. 🤷 **Rental Person Who Does Nothing** by Shoji Morimoto ~ Japanese man discovers the value of simply being present
 10. 🗻 **Murder at Mt. Fuji** by Shizuko Natsuki ~ Mystery with a stunning Japanese backdrop
 11. ☕ **Legends and Lattes** by Travis Baldree ~ Retired orc warrior opens a coffee shop and finds a new kind of adventure
 12. 🏚️ **Mexican Gothic** by Silvia Moreno-Garcia ~ Atmospheric Gothic horror set in a mysterious Mexican mansion
-13. 🖼️ **Strange Pictures** by Junji Ito ~ Japanese horror master's unsettling visual storytelling
-14. 🏠 **Strange Houses** by Junji Ito ~ More eerie tales from the king of Japanese horror manga
+13. 🖼️ **Strange Pictures** by Uketsu ~ A series of unsettling drawings, each revealing a dark secret
+14. 🏠 **Strange Houses** by Uketsu ~ A twisty puzzle in which the reader is the detective, examining a series of creepy floorplans for clues
 15. 🧹 **Swedish Death Cleaning** by Margareta Magnusson ~ Thoughtful approach to organizing your life and legacy
 16. 🌟 **The Life Impossible** by Matt Haig ~ It's never too late to start living fully
-17. 🌙 **The Sleepwalkers** by Hermann Broch ~ Philosophical trilogy about society on the brink of change
-18. 🔥 **Everything Is Fine** by Cecilia Rabess ~ When attraction meets complicated politics and personal values
+17. 🌙 **The Sleepwalkers** by Scarlett Thomas ~ A sublimelycreepy contemporary gothic work about a relationship unravelling
+18. 🔥 **Everything Is Fine** by Mike Birchall ~ Perfectly normal couple Sam and Maggie live in a perfectly normal neighborhood, with their perfectly normal dog Winston
 19. 🐆 **City of the Beasts** by Isabel Allende ~ Amazon adventure blending reality and myth
 20. 🎭 **The Guest** by Emma Cline ~ A woman navigates the edges of privilege and belonging
-21. 💌 **Dear Me** by Peter Cook ~ Letters to his younger self, full of reflection and wit
+21. 💌 **Dear Me** by various ~ Includes letters from three knights, a handful of Oscar winners, a bevy of Baftas, an intrepid explorer, a few teenage pop stars, and more
 22. 📖 **Northanger Abbey** by Jane Austen ~ A playful satire about imagination versus reality
 23. 🐕 **The Curious Incident of the Dog in the Night-time** by Mark Haddon ~ An autistic teen's unique perspective while solving a mystery
-24. 🍩 **Donut Squad Take Over The World** by Gianna Pollero ~ Sweet treats meet world domination plans
+24. 🍩 **Donut Squad Take Over The World** by Neill Cameron ~ Sweet treats meet world domination plans
 25. 🌕 **The Full Moon Coffee Shop** by Mai Mochizuki ~ Japanese café where special moments happen under moonlight
 26. 🧹 **Kiki's Delivery Service Graphic Novel** by Hayao Miyazaki ~ Young witch starts a delivery business and finds her independence
-27. 👑 **Drama Queen** by Chloé Hayden ~ Autistic actor navigates Hollywood and embraces authenticity
+27. 👑 **Drama Queen** by Sara Gibbs ~ Autistic journalis navigates life and embraces authenticity
 28. ⛵ **Three Ways to Capsize a Boat** by Chris Stewart ~ Nautical mishaps told with good humor
 29. 🪞 **Mrs March** by Virginia Feito ~ Woman questions her husband's fictional villain character
 30. 📚 **The Secret Christmas Bookshop** by Jenny Colgan ~ Festive bookstore magic and the joy of perfect recommendations
@@ -56,7 +56,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 ## 2024
 
 1. 📖 **Welcome to the Hyunam-Dong Bookshop** by Hwang Bo-reum ~ Korean bookshop where healing happens one book at a time
-2. 💊 **A Bitter Remedy** by MJ Tjia ~ Victorian-era Chinese herbalist combines medicine with detective work
+2. 💊 **A Bitter Remedy** by Alis Hawkins ~ Amongst the scholars, secrets and soporifics of Victorian Oxford, the truth can be a bitter pill to swallow….
 3. 🐂 **The Minotaur Takes a Cigarette Break** by Steven Sherrill ~ Mythical creature finds his place in the modern world
 4. 🎓 **Disorientation** by Elaine Hsieh Chou ~ Sharp academic satire about identity and authenticity
 5. 🍜 **Kamogawa Food Detectives** by Hisashi Kashiwai ~ Father-daughter duo solve mysteries through nostalgic meals
@@ -66,7 +66,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 9. 🐦‍⬛ **Raven Black** by Ann Cleeves ~ Atmospheric Shetland mystery where landscape tells its own story
 10. 🧠 **The Whole-Brain Child** by Daniel J. Siegel (audio) ~ Parenting science that actually makes sense
 11. 📝 **Yellowface** by R.F. Kuang (audio) ~ Sharp commentary on literary authenticity and cultural appropriation
-12. 🏝️ **The Satsuma Complex** by Bob Mortimer (audio) ~ Quirky mystery set on a Spanish island
+12. 🏝️ **The Satsuma Complex** by Bob Mortimer (audio) ~ Quirky mystery set in England
 13. 👑 **Queenie** by Candice Carty-Williams (audio) ~ Jamaican-British woman navigates identity and belonging in London
 14. 🔎 **The Man Who Died Twice** by Richard Osman (audio) ~ Thursday Murder Club's second clever adventure
 15. 🖕 **The Good Girl's Guide to Being a Dick** by Kat Brown ~ Permission to set boundaries and prioritize yourself
@@ -82,7 +82,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 1. 😇 **The Last Devil to Die** by Richard Osman ~ Thursday Murder Club's latest heartwarming mystery
 2. 🦕 **Dinosaurs: 10 Things You Should Know** by Dean R. Lomax ~ Fascinating facts about prehistoric giants
 3. 😈 **Faust Among Equals** by Tom Holt ~ Humorous take on demon bureaucracy
-4. 🕵️ **Triflers Need Not Apply** by Renee Patrick ~ 1930s Hollywood mystery with period glamour
+4. 🕵️ **Triflers Need Not Apply** by Camilla Bruce ~ The fascinating reimagining of the life and times of history's original female serial killer
 5. 💬 **Several People Are Typing** by Calvin Kasulke ~ Modern workplace comedy told entirely through messages
 6. 🌸 **Small Pleasures** by Clare Chambers ~ 1950s journalist discovers unexpected connections
 7. 🔪 **The Marlow Murder Club** by Robert Thorogood ~ Retiree's new calling as an amateur detective
@@ -106,7 +106,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 5. 💼 **There's No Such Thing As An Easy Job** by Kikuko Tsumura ~ Woman explores five unusual jobs
 6. 🏃 **The Perfect Escape** by Leah Konen ~ Vacation thriller with unexpected turns
 7. 🌊 **Malibu Rising** by Taylor Jenkins Reid ~ Family drama set against 1980s Malibu backdrop
-8. 👻 **How to Disappear** by Sharon Huss Roat ~ Teen learns you can't run from yourself
+8. 👻 **How to Disappear** by Gillian McAllister ~ A story about a 14-year-old girl who witnesses a murder but then gives a false statement in court
 9. 😨 **The Gift of Fear** by Gavin de Becker ~ Trusting intuition for personal safety
 10. 🧹 **The Maid** by Nita Prose ~ Hotel maid with unique perspective solves a murder
 11. 👯 **Wahala** by Nikki May ~ Nigerian-British friendship dynamics and complexities
@@ -116,8 +116,8 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 15. 🏖️ **We Were Never There** by Andrea Bartz ~ Friendship tested by mysterious circumstances
 16. 🕵️ **Permanent Record** by Edward Snowden ~ Whistleblower's account of privacy and surveillance
 17. 🔮 **The Premonition Bureau** by Sam Knight ~ WWII mass observation meets precognition research
-18. 👭 **Sista, Sister** by Candice Brathwaite's ~ all the things the author wishes she'd been told when she was young and needed guidance
-19. 💬 **Loaded Language** by Jude Morrow ~ Autistic writer explores the power of words
+18. 👭 **Sista, Sister** by Candice Brathwaite ~ all the things the author wishes she'd been told when she was young and needed guidance
+19. 💬 **Loaded Language** by Ali Almossawi ~ An Illustrated Book of Loaded Language uses beautiful pen-and-ink drawings by Alejandro Giraldo and a metaphorical conflict between badgers and rabbits
 20. 🌏 **Ponti** by Sharlene Teo ~ Singapore ghost story about mothers and daughters
 21. 🪄 **Treacle Walker** by Alan Garner ~ Mystical novella blending folklore and magic
 22. 🔥 **Heatwave** by Victor Jestin ~ French teen's transformative summer
@@ -152,9 +152,9 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 - [ ] ☁️ **Cloud Atlas** by David Mitchell ~ Six interconnected stories across time
 - [ ] 🕰️ **The Bone Clocks** by David Mitchell ~ Fantasy spanning decades
 - [ ] 🏺 **The Ten Thousand Things** by John Spurling ~ Historical novel set in medieval China
-- [ ] 👻 **The Invisible Man** by H.G. Wells ~ Classic science fiction (160 pages)
+- [ ] 👻 **The Invisible Man** by H.G. Wells ~ Classic science fiction 
 - [ ] 🤖 **Do Androids Dream of Electric Sheep?** by Philip K. Dick ~ Humanity and artificial intelligence (210 pages)
-- [ ] 🔥 **Fahrenheit 451** by Ray Bradbury ~ Dystopian classic about censorship (256 pages)
+- [ ] 🔥 **Fahrenheit 451** by Ray Bradbury ~ Dystopian classic about censorship 
 - [ ] 🚪 **The Ten Thousand Doors of January** by Alix E. Harrow ~ Wonder-filled portal fantasy
 - [ ] 🏚️ **Rebecca** by Daphne du Maurier ~ Gothic mystery with atmosphere and suspense
 - [ ] 🪟 **The Glassmaker** by Tracy Chevalier ~ Historical fiction about Venetian glassmaking
@@ -163,5 +163,6 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 - [ ] 🌙 **Immortal** by Sue Lynn Tan ~ Chinese mythology-inspired fantasy
 
 ---
+Always happy to hear recos! 
 
 *Last updated: February 2026*
