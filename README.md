@@ -2,8 +2,13 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-🎧 = audio book
+**Total books read: 209**  
+**Re-reads: 28**  
+**Works by family members: 2** (Joe Marler and Richard Wicker)
 
+🎧 = audio book  
+🔁 = re-read
+💙 = author is a family member
 ---
 
 ## 2026
@@ -38,7 +43,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 14. 🏠 **Strange Houses** by Uketsu ~ A twisty puzzle in which the reader is the detective, examining a series of creepy floorplans for clues
 15. 🧹 **Swedish Death Cleaning** by Margareta Magnusson ~ Thoughtful approach to organizing your life and legacy
 16. 🌟 **The Life Impossible** by Matt Haig ~ It's never too late to start living fully
-17. 🌙 **The Sleepwalkers** by Scarlett Thomas ~ A sublimelycreepy contemporary gothic work about a relationship unravelling
+17. 🌙 **The Sleepwalkers** by Scarlett Thomas ~ A sublimely creepy contemporary gothic work about a relationship unravelling
 18. 🔥 **Everything Is Fine** by Mike Birchall ~ Perfectly normal couple Sam and Maggie live in a perfectly normal neighborhood, with their perfectly normal dog Winston
 19. 🐆 **City of the Beasts** by Isabel Allende ~ Amazon adventure blending reality and myth
 20. 🎭 **The Guest** by Emma Cline ~ A woman navigates the edges of privilege and belonging
@@ -48,7 +53,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 24. 🍩 **Donut Squad Take Over The World** by Neill Cameron ~ Sweet treats meet world domination plans
 25. 🌕 **The Full Moon Coffee Shop** by Mai Mochizuki ~ Japanese café where special moments happen under moonlight
 26. 🧹 **Kiki's Delivery Service Graphic Novel** by Hayao Miyazaki ~ Young witch starts a delivery business and finds her independence
-27. 👑 **Drama Queen** by Sara Gibbs ~ Autistic journalis navigates life and embraces authenticity
+27. 👑🔁 **Drama Queen** by Sara Gibbs ~ Autistic journalist navigates life and embraces authenticity
 28. ⛵ **Three Ways to Capsize a Boat** by Chris Stewart ~ Nautical mishaps told with good humor
 29. 🪞 **Mrs March** by Virginia Feito ~ Woman questions her husband's fictional villain character
 30. 📚 **The Secret Christmas Bookshop** by Jenny Colgan ~ Festive bookstore magic and the joy of perfect recommendations
@@ -58,7 +63,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 ## 2024
 
 1. 📖 **Welcome to the Hyunam-Dong Bookshop** by Hwang Bo-reum ~ Korean bookshop where healing happens one book at a time
-2. 💊 **A Bitter Remedy** by Alis Hawkins ~ Amongst the scholars, secrets and soporifics of Victorian Oxford, the truth can be a bitter pill to swallow….
+2. 💊 **A Bitter Remedy** by Alis Hawkins ~ Amongst the scholars, secrets and soporifics of Victorian Oxford, the truth can be a bitter pill to swallow
 3. 🐂 **The Minotaur Takes a Cigarette Break** by Steven Sherrill ~ Mythical creature finds his place in the modern world
 4. 🎓 **Disorientation** by Elaine Hsieh Chou ~ Sharp academic satire about identity and authenticity
 5. 🍜 **Kamogawa Food Detectives** by Hisashi Kashiwai ~ Father-daughter duo solve mysteries through nostalgic meals
@@ -76,13 +81,28 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 17. 🎯 **The Bullet That Missed** by Richard Osman ~ Thursday Murder Club tackles another clever case
 18. 🧹 **The Housemaid** by Freida McFadden ~ Psychological thriller with unexpected twists
 19. 🦝 **Aggretsuko** by Yeti ~ Office worker red panda channels frustration through karaoke
+20. 🎤 **Idol** by Louise O'Neill ~ Honest look at fame and its consequences
+21. 🎰 **Lady Joker Vol 1** by Kaoru Takamura ~ Intricate Japanese corporate thriller
+22. 💰 **House of Fortune Vol 1** by Jessie Burton ~ Amsterdam merchant family learns valuable lessons
+23. ⏰ **Both Die at the End** by Adam Silvera ~ Making every moment count when time is limited
+24. 🚂 **Murder on the Christmas Express** by Alexandra Benedict ~ Festive whodunit aboard a vintage train
+25. ⚖️ **Secret Barrister** by The Secret Barrister ~ Eye-opening insider's view of the broken justice system
+26. 🕯️ **A Flicker in the Dark** by Stacy Willingham ~ Psychologist's father was a serial killer, now similar murders are happening again
+27. 🎭 **The Castaways** by Lucy Clarke ~ Friends on a dream vacation face survival when everything goes wrong
+28. 💍 **The Husbands** by Chandler Baker ~ Wives discover their husbands are suspiciously perfect
+29. 🎨 **Liar, Dreamer, Thief** by Maria Dong ~ Office worker's inner world blurs with reality in unsettling ways
+30. ❄️ **Winter in Sokcho** by Elisa Shua Dusapin ~ Quiet French novel set in a South Korean seaside town
+31. 🔐 **The Twyford Code** by Janice Hallett ~ Mystery told through voice recordings and transcripts
+32. 🕊️ **The Little Book of Forgiveness** by Kitty Guilsborough ~ Wisdom on healing and letting go
+33. 📱 **Message Deleted** by K. L. Slater 🎧 ~ Mystery thriller exploring digital footprints and secrets
+34. 🔍 **The Mystery Guest** by Nita Prose 🎧 ~ Hotel maid returns for another clever mystery
 
 ---
 
 ## 2023
 
 1. 😇 **The Last Devil to Die** by Richard Osman ~ Thursday Murder Club's latest heartwarming mystery
-2. 🦕 **Dinosaurs: 10 Things You Should Know** by Dean R. Lomax ~ Fascinating facts about prehistoric giants
+2. 🦕🔁 **Dinosaurs: 10 Things You Should Know** by Dean R. Lomax ~ Fascinating facts about prehistoric giants
 3. 😈 **Faust Among Equals** by Tom Holt ~ Humorous take on demon bureaucracy
 4. 🕵️ **Triflers Need Not Apply** by Camilla Bruce ~ The fascinating reimagining of the life and times of history's original female serial killer
 5. 💬 **Several People Are Typing** by Calvin Kasulke ~ Modern workplace comedy told entirely through messages
@@ -91,11 +111,13 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 8. ☕ **Tales from the Cafe** by Toshikazu Kawaguchi ~ More heartwarming time-travel café stories
 9. 📚 **The Library Suicides** by Fflur Dafydd ~ Welsh library thriller exploring family secrets
 10. 🌶️ **Paprika** by Yasutaka Tsutsui ~ Dream detective investigates nightmares in surreal mystery
-11. 🎤 **Idol** by Louise O'Neill ~ Honest look at fame and its consequences
-12. 🎰 **Lady Joker Vol 1** by Kaoru Takamura ~ Intricate Japanese corporate thriller
-13. 🏥 **The Mad Woman's Ball** by Victoria Mas ~ 1885 Paris asylum story about women and power
-14. 💰 **House of Fortune** by Jessie Burton ~ Amsterdam merchant family learns valuable lessons
-15. ⏰ **Both Die at the End** by Adam Silvera ~ Making every moment count when time is limited
+11. 🏥 **The Mad Woman's Ball** by Victoria Mas ~ 1885 Paris asylum story about women and power
+12. 🐉 **Sea Monsters** by Chloe Aridjis ~ Surreal coming-of-age tale set in Mexico City
+13. ⛵ **The Stranger in the Lifeboat** by Mitch Albom ~ Shipwreck survivors encounter a mysterious stranger
+14. 🧚 **The Godmother** by Hannelore Cayre ~ Elderly French-Arab woman becomes unlikely drug queenpin
+15. ⏱️ **A Brief History of Time** by Stephen Hawking 🎧 ~ Cosmos explained from the Big Bang to black holes
+
+And more, list is a WIP.
 
 ---
 
@@ -118,15 +140,118 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 15. 🏖️ **We Were Never There** by Andrea Bartz ~ Friendship tested by mysterious circumstances
 16. 🕵️ **Permanent Record** by Edward Snowden ~ Whistleblower's account of privacy and surveillance
 17. 🔮 **The Premonition Bureau** by Sam Knight ~ WWII mass observation meets precognition research
-18. 👭 **Sista, Sister** by Candice Brathwaite ~ all the things the author wishes she'd been told when she was young and needed guidance
-19. 💬 **Loaded Language** by Ali Almossawi ~ An Illustrated Book of Loaded Language uses beautiful pen-and-ink drawings by Alejandro Giraldo and a metaphorical conflict between badgers and rabbits
-20. 🌏 **Ponti** by Sharlene Teo ~ Singapore ghost story about mothers and daughters
-21. 🪄 **Treacle Walker** by Alan Garner ~ Mystical novella blending folklore and magic
-22. 🔥 **Heatwave** by Victor Jestin ~ French teen's transformative summer
-23. ✊ **Why I'm No Longer Talking to White People About Race** by Reni Eddo-Lodge ~ Essential reading on structural racism in Britain
-24. 🏠 **The Paper Palace** by Miranda Cowley Heller ~ One summer unravels decades of family secrets
-25. 🗺️ **Escape Routes** by Naomi Ishiguro ~ Interconnected stories about seeking new paths
-26. 🐱 **Catology** by Various ~ Understanding the fascinating science of cats
+18. 💬 **Loaded Language** by Ali Almossawi ~ An illustrated book using pen-and-ink drawings and a metaphorical conflict between badgers and rabbits
+19. 🐱 **Catology** by Various ~ Understanding the fascinating science of cats
+20. 👭 🔁 **Sista, Sister** by Candice Brathwaite ~ All the things the author wishes she'd been told when she was young and needed guidance
+21. 🌏 **Ponti** by Sharlene Teo ~ Singapore ghost story about mothers and daughters
+22. 🪄 **Treacle Walker** by Alan Garner ~ Mystical novella blending folklore and magic
+23. 🔥 **Heatwave** by Victor Jestin ~ French teen's transformative summer
+24. ✊ **Why I'm No Longer Talking to White People About Race** by Reni Eddo-Lodge ~ Essential reading on structural racism in Britain
+25. 🏠 **The Paper Palace** by Miranda Cowley Heller ~ One summer unravels decades of family secrets
+26. 🗺️ **Escape Routes** by Naomi Ishiguro ~ Interconnected stories about seeking new paths
+27. 🌅 **Sunset** by Jessie Cave ~ Darkly comic exploration of motherhood and mental health
+28. 💑 **How to Have Feminist Sex** by Flo Perry ~ Guide to pleasure and equality in intimacy
+29. 🌳 **Bewilderment** by Richard Powers ~ Father and son navigate life after loss
+30. 💔 **How to Overcome Your Childhood** by The School of Life ~ Understanding and moving beyond early experiences
+
+---
+
+## 2021
+
+1. 👁️ **99% Invisible City** by Roman Mars & Kurt Kohlstedt ~ Hidden design stories of everyday urban life
+2. 🗺️ **Atlas of Extinct Countries** by Gideon Defoe ~ A tour through nations that no longer exist
+3. 💻 **The Software Engineer's Handbook** by Sonali Sinha ~ Practical guide to software engineering
+4. 🤝 **How to Win Friends and Influence People** by Dale Carnegie ~ Classic guide to connection and persuasion
+5. 💪 **The Courage to be Disliked** by Ichiro Kishimi & Fumitake Koga ~ Japanese philosophy on freedom and happiness
+6. 🧠 **Stop Ruminating** by Nick Trenton ~ Breaking the cycle of overthinking
+7. 🧘 **Calm the F*ck Down** by Sarah Knight ~ Practical guide to managing anxiety
+8. 🤖 **Klara and the Sun** by Kazuo Ishiguro ~ AI companion contemplates love and humanity
+9. 🇰🇵 **In Order to Live** by Yeonmi Park ~ North Korean defector's powerful survival story
+10. 📚 **An Illustrated Book of Bad Arguments** by Ali Almossawi ~ Visual guide to logical fallacies told via woodland animals
+11. 🏉💙 **Loosehead Prop** by Joe Marler ~ Rugby memoir by my cousin Joe
+12. 💅 **Women Don't Owe You Pretty** by Florence Given ~ Feminist guide to self-love and boundaries
+13. 👑 **The Windsor Knot** by S.J. Bennett ~ Queen Elizabeth II solves a murder at Windsor Castle
+14. 🧵 **Threadneedle** by Cari Thomas ~ Contemporary witchcraft in modern London
+15. 🚬 **The Dangers of Smoking in Bed** by Mariana Enriquez ~ Haunting Argentinian short stories
+16. ✈️ **Falling** by T.J. Newman ~ Flight attendant's family held hostage mid-flight
+17. ⛪ **The Confession** by Jessie Burton ~ Artist's maid harbors dangerous secrets in 1980s London
+18. 🔎 **The Thursday Murder Club** by Richard Osman ~ Retirees investigate cold cases
+19. 🎲 **Fifty Fifty** by Steve Cavanagh ~ Defense lawyer's daughter accused of double murder
+20. 👑 **Drama Queen** by Sara Gibbs ~ Autistic journalist navigates life and embraces authenticity
+21. 📝 **I Feel Bad About My Neck** by Nora Ephron ~ Witty essays on aging and life
+22. 💀 **How to Kill Your Family** by Bella Mackie ~ Dark comedy about revenge and inheritance
+23. 🦕 **Dinosaurs: 10 Things You Should Know** by Dean R. Lomax ~ Fascinating facts about prehistoric giants
+24. 🧩 **Something Out of Place** by Eimear McBride ~ Experimental essays on art and creativity
+25. 💰 **I Will Teach You to be Rich** by Ramit Sethi ~ No-nonsense personal finance guide
+26. 🧒 🔁 **How to Overcome Your Childhood** by The School of Life ~ Understanding and moving beyond early experiences
+27. 🐐 **Piranesi** by Susanna Clarke ~ Man explores infinite house filled with ocean and statues
+28. 🧜‍♀️ **The Mermaid of Black Conch** by Monique Roffey ~ Caribbean fisherman rescues cursed mermaid
+29. ⚔️💙 **We Happy Few: Wartime Writings 1939-1945** by Richard M. Wicker ~ Collection of WWII correspondence (my great-uncle!)
+30. ♻️ **Sustainability** by Florence Porcel ~ Guide to living more sustainably
+31. 🌙 **The Midnight Library** by Matt Haig ~ Woman explores parallel lives between life and death
+
+---
+
+## 2020
+
+1. 🏙️ 🔁 **Invisible Cities** by Italo Calvino ~ Marco Polo describes imaginary cities to Kublai Khan
+2. 👻 **Soul Eater** by Michele Paver ~ Chilling tale of spirits and survival in ancient forests
+3. ☕ **The Little Coffee Shop of Kabul** by Deborah Rodriguez ~ Expats find community in Afghanistan café
+4. 🧘 **A Monk's Guide to a Clean House and Mind** by Shoukei Matsumoto ~ Zen cleaning practices
+5. ☕ **Before the Coffee Gets Cold** by Toshikazu Kawaguchi ~ Time-travel café where you can visit the past
+6. 🕵️ **Brighton Rock** by Graham Greene ~ Gang warfare and moral decay in 1930s Brighton
+7. 🦊 **The Animals of Lockwood Manor** by Jane Healey ~ WWII evacuated museum collection and family secrets
+8. ☠️ **Death in a Good Climate** by Robert Barnard ~ Mystery set in sunny Spain
+9. 🏯 **The Honjin Murders** by Seishi Yokomizo ~ Classic Japanese locked-room mystery
+10. 🔍🔁 **The No. 1 Ladies' Detective Agency** by Alexander McCall Smith ~ Botswana's first female private detective
+11. 🚂 **A Night on the Orient Express** by Veronica Henry ~ Luxury train journey full of romance and secrets
+12. 🎪 **Curiosities and Splendour: An Anthology of Classic Travel Literature** by Various ~ Collection of historic travel writing
+13. 🕊️ **The Swallows of Kabul** by Yasmina Khadra ~ Love and despair in Taliban-ruled Afghanistan
+14. 💄 **The Kabul Beauty School** by Deborah Rodriguez ~ American hairdresser opens salon in Afghanistan
+15. 🐰 🔁 **Alice in Wonderland** by Lewis Carroll ~ Classic tale of a girl's adventures down the rabbit hole
+16. 🏛️ **The Architect's Apprentice** by Elif Shafak ~ Elephant keeper's journey through Ottoman Empire
+17. 🌸 **Enchanted April** by Elizabeth von Arnim ~ Four women rent Italian castle for transformative month
+18. ❄️ **Black Snow** by Malcolm Stacey ~ When Richard Black and his two children move to Wales, a storm of concentrated evil is unleashed on the seaside town of Tenby
+
+---
+
+## 2019
+
+1. ✨ **The Life-Changing Magic of Tidying Up** by Marie Kondo ~ KonMari method for organizing your home
+2. 🖕 **The Good Girl's Guide to Being a Dick** by Kat Brown ~ Permission to set boundaries and prioritize yourself
+3. 📦 **The Art of Discarding** by Nagisa Tatsumi ~ Practical wisdom on letting go of what doesn't serve you
+4. 💭 **Reasons to Stay Alive** by Matt Haig ~ Honest memoir about depression and finding hope
+5. 👑 **Diana: Her True Story - In Her Own Words** by Andrew Morton ~ Princess Diana's life told through her own voice
+6. 🗑️ **Goodbye Things** by Fumio Sasaki ~ Japanese minimalism and finding freedom through simplicity
+7. 🌸 **Ikigai** by Héctor García & Francesc Miralles ~ Japanese secret to a long and happy life
+8. 🏙️ **Invisible Cities** by Italo Calvino ~ Marco Polo describes imaginary cities to Kublai Khan
+9. 🦹 **The Thief** by Fuminori Nakamura ~ Tokyo pickpocket's dark psychological journey
+10. 🏛️ **Mythos** by Stephen Fry ~ Greek myths retold with wit and warmth
+11. 🌬️ **The Western Wind** by Samantha Harvey ~ Medieval priest investigates a death in his village
+12. 🎭 **Six Impossible Things** by Lewis Wolpert ~ Exploring the evolutionary origins of belief
+13. 🇸🇪 **Lagom** by Linnea Dunne ~ Swedish philosophy of balanced living
+14. 🦸 **Heroes** by Stephen Fry ~ Greek heroes and their epic adventures retold
+15. 🐺 **The Tenderness of Wolves** by Stef Penney ~ Murder mystery in 1860s Canadian wilderness
+16. 😰 **Notes on a Nervous Planet** by Matt Haig ~ Finding calm in an anxious world
+17. 😊 **Happy** by Derren Brown ~ Exploring what happiness means and how to find it
+18. 🗺️ **Remote Journeys Oddly Rendered** by various ~ Unusual travel tales from around the world
+
+---
+
+## 2018
+
+1. 🎩 **The Great Gatsby** by F. Scott Fitzgerald ~ Jazz Age tragedy of wealth and obsession
+2. 🏝️ **Treasure Island** by Robert Louis Stevenson ~ Classic pirate adventure
+3. 📚 **The Book of Dust** by Philip Pullman ~ Return to the world of His Dark Materials
+4. 💍 **Breakfast at Tiffany's** by Truman Capote ~ Iconic New York socialite Holly Golightly
+5. 🕵️ **The Spy Who Came In From The Cold** by John le Carré ~ Classic Cold War espionage thriller
+6. 🎨 **The Muse** by Jessie Burton ~ Art, secrets, and deception across two time periods
+7. 📦 **The Keeper of Lost Things** by Ruth Hogan ~ Heartwarming story about treasured objects and connections
+8. 🦋 **Moth Smoke** by Mohsin Hamid ~ Love triangle in pre-9/11 Lahore
+9. 🐦 **Wind-Up Bird Chronicle** by Haruki Murakami ~ Surreal journey through Japan's dark history
+10. 🇷🇺 **A Gentleman in Moscow** by Amor Towles ~ Count under house arrest in luxury hotel
+11. 🌊 **Everything Under** by Daisy Johnson ~ Modern retelling of Oedipus along British waterways
+12. 🎄 **The Christmas Lights** by Karen Swan ~ Festive romance and family secrets
 
 ---
 
@@ -155,7 +280,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 - [ ] 🕰️ **The Bone Clocks** by David Mitchell ~ Fantasy spanning decades
 - [ ] 🏺 **The Ten Thousand Things** by John Spurling ~ Historical novel set in medieval China
 - [ ] 👻 **The Invisible Man** by H.G. Wells ~ Classic science fiction 
-- [ ] 🤖 **Do Androids Dream of Electric Sheep?** by Philip K. Dick ~ Humanity and artificial intelligence (210 pages)
+- [ ] 🤖 **Do Androids Dream of Electric Sheep?** by Philip K. Dick ~ Humanity and artificial intelligence
 - [ ] 🔥 **Fahrenheit 451** by Ray Bradbury ~ Dystopian classic about censorship 
 - [ ] 🚪 **The Ten Thousand Doors of January** by Alix E. Harrow ~ Wonder-filled portal fantasy
 - [ ] 🏚️ **Rebecca** by Daphne du Maurier ~ Gothic mystery with atmosphere and suspense
