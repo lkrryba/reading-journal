@@ -2,8 +2,8 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read: 209**  
-**Re-reads: 28**  
+**Total books read: 201**  
+**Re-reads: 6**  
 **Works by family members: 2** (Joe Marler and Richard Wicker)
 
 - 🎧 = audio book  
@@ -62,6 +62,38 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 
 ## 2024
 
+1. 😇 **The Last Devil to Die** by Richard Osman ~ Thursday Murder Club's latest heartwarming mystery
+2. 🦕🔁 **Dinosaurs: 10 Things You Should Know** by Dean R. Lomax ~ Fascinating facts about prehistoric giants
+3. 😈 **Faust Among Equals** by Tom Holt ~ Humorous take on demon bureaucracy
+4. 🕵️ **Triflers Need Not Apply** by Camilla Bruce ~ The fascinating reimagining of the life and times of history's original female serial killer
+5. 💬 **Several People Are Typing** by Calvin Kasulke ~ Modern workplace comedy told entirely through messages
+6. 🌸 **Small Pleasures** by Clare Chambers ~ 1950s journalist discovers unexpected connections
+7. 🔪 **The Marlow Murder Club** by Robert Thorogood ~ Retiree's new calling as an amateur detective
+8. ☕ **Tales from the Cafe** by Toshikazu Kawaguchi ~ More heartwarming time-travel café stories
+9. 📚 **The Library Suicides** by Fflur Dafydd ~ Welsh library thriller exploring family secrets
+10. 🧹 **The Housemaid** by Freida McFadden ~ Psychological thriller with unexpected twists
+11. 🎤 **Idol** by Louise O'Neill ~ Honest look at fame and its consequences
+12. 🎰 **Lady Joker Vol 1** by Kaoru Takamura ~ Intricate Japanese corporate thriller
+13. 💰 **House of Fortune Vol 1** by Jessie Burton ~ Amsterdam merchant family learns valuable lessons
+14. ⏰ **Both Die at the End** by Adam Silvera ~ Making every moment count when time is limited
+15. 🚂 **Murder on the Christmas Express** by Alexandra Benedict ~ Festive whodunit aboard a vintage train
+16. ⚖️ **Secret Barrister** by The Secret Barrister ~ Eye-opening insider's view of the broken justice system
+17. 🕯️ **A Flicker in the Dark** by Stacy Willingham ~ Psychologist's father was a serial killer, now similar murders are happening again
+18. 🎭 **The Castaways** by Lucy Clarke ~ Friends on a dream vacation face survival when everything goes wrong
+19. 💍 **The Husbands** by Chandler Baker ~ Wives discover their husbands are suspiciously perfect
+20. 📚 **Weird Books** ~ Collection of strange and unusual stories
+21. 🎨 **Liar, Dreamer, Thief** by Maria Dong ~ Office worker's inner world blurs with reality in unsettling ways
+22. ❄️ **Winter in Sokcho** by Elisa Shua Dusapin ~ Quiet French novel set in a South Korean seaside town
+23. 🔐 **The Twyford Code** by Janice Hallett ~ Mystery told through voice recordings and transcripts
+24. 🕊️ **The Little Book of Forgiveness** by Kitty Guilsborough ~ Wisdom on healing and letting go
+25. 🍜 **Wahala** by Nikki May ~ Nigerian-British friendship dynamics and complexities
+26. 📱 **Message Deleted** by K. L. Slater 🎧 ~ Mystery thriller exploring digital footprints and secrets
+27. 🔍 **The Mystery Guest** by Nita Prose 🎧 ~ Hotel maid returns for another clever mystery
+
+---
+
+## 2023
+
 1. 📖 **Welcome to the Hyunam-Dong Bookshop** by Hwang Bo-reum ~ Korean bookshop where healing happens one book at a time
 2. 💊 **A Bitter Remedy** by Alis Hawkins ~ Amongst the scholars, secrets and soporifics of Victorian Oxford, the truth can be a bitter pill to swallow
 3. 🐂 **The Minotaur Takes a Cigarette Break** by Steven Sherrill ~ Mythical creature finds his place in the modern world
@@ -78,46 +110,16 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 14. 🔎 **The Man Who Died Twice** by Richard Osman 🎧 ~ Thursday Murder Club's second clever adventure
 15. 🖕 **The Good Girl's Guide to Being a Dick** by Kat Brown ~ Permission to set boundaries and prioritize yourself
 16. 🧼 **How to Keep House While Drowning** by KC Davis ~ Compassionate approach to home care when life is overwhelming
-17. 🎯 **The Bullet That Missed** by Richard Osman ~ Thursday Murder Club tackles another clever case
-18. 🧹 **The Housemaid** by Freida McFadden ~ Psychological thriller with unexpected twists
-19. 🦝 **Aggretsuko** by Yeti ~ Office worker red panda channels frustration through karaoke
-20. 🎤 **Idol** by Louise O'Neill ~ Honest look at fame and its consequences
-21. 🎰 **Lady Joker Vol 1** by Kaoru Takamura ~ Intricate Japanese corporate thriller
-22. 💰 **House of Fortune Vol 1** by Jessie Burton ~ Amsterdam merchant family learns valuable lessons
-23. ⏰ **Both Die at the End** by Adam Silvera ~ Making every moment count when time is limited
-24. 🚂 **Murder on the Christmas Express** by Alexandra Benedict ~ Festive whodunit aboard a vintage train
-25. ⚖️ **Secret Barrister** by The Secret Barrister ~ Eye-opening insider's view of the broken justice system
-26. 🕯️ **A Flicker in the Dark** by Stacy Willingham ~ Psychologist's father was a serial killer, now similar murders are happening again
-27. 🎭 **The Castaways** by Lucy Clarke ~ Friends on a dream vacation face survival when everything goes wrong
-28. 💍 **The Husbands** by Chandler Baker ~ Wives discover their husbands are suspiciously perfect
-29. 🎨 **Liar, Dreamer, Thief** by Maria Dong ~ Office worker's inner world blurs with reality in unsettling ways
-30. ❄️ **Winter in Sokcho** by Elisa Shua Dusapin ~ Quiet French novel set in a South Korean seaside town
-31. 🔐 **The Twyford Code** by Janice Hallett ~ Mystery told through voice recordings and transcripts
-32. 🕊️ **The Little Book of Forgiveness** by Kitty Guilsborough ~ Wisdom on healing and letting go
-33. 📱 **Message Deleted** by K. L. Slater 🎧 ~ Mystery thriller exploring digital footprints and secrets
-34. 🔍 **The Mystery Guest** by Nita Prose 🎧 ~ Hotel maid returns for another clever mystery
-
----
-
-## 2023
-
-1. 😇 **The Last Devil to Die** by Richard Osman ~ Thursday Murder Club's latest heartwarming mystery
-2. 🦕🔁 **Dinosaurs: 10 Things You Should Know** by Dean R. Lomax ~ Fascinating facts about prehistoric giants
-3. 😈 **Faust Among Equals** by Tom Holt ~ Humorous take on demon bureaucracy
-4. 🕵️ **Triflers Need Not Apply** by Camilla Bruce ~ The fascinating reimagining of the life and times of history's original female serial killer
-5. 💬 **Several People Are Typing** by Calvin Kasulke ~ Modern workplace comedy told entirely through messages
-6. 🌸 **Small Pleasures** by Clare Chambers ~ 1950s journalist discovers unexpected connections
-7. 🔪 **The Marlow Murder Club** by Robert Thorogood ~ Retiree's new calling as an amateur detective
-8. ☕ **Tales from the Cafe** by Toshikazu Kawaguchi ~ More heartwarming time-travel café stories
-9. 📚 **The Library Suicides** by Fflur Dafydd ~ Welsh library thriller exploring family secrets
-10. 🌶️ **Paprika** by Yasutaka Tsutsui ~ Dream detective investigates nightmares in surreal mystery
-11. 🏥 **The Mad Woman's Ball** by Victoria Mas ~ 1885 Paris asylum story about women and power
-12. 🐉 **Sea Monsters** by Chloe Aridjis ~ Surreal coming-of-age tale set in Mexico City
-13. ⛵ **The Stranger in the Lifeboat** by Mitch Albom ~ Shipwreck survivors encounter a mysterious stranger
-14. 🧚 **The Godmother** by Hannelore Cayre ~ Elderly French-Arab woman becomes unlikely drug queenpin
-15. ⏱️ **A Brief History of Time** by Stephen Hawking 🎧 ~ Cosmos explained from the Big Bang to black holes
-
-And more, list is a WIP.
+17. 🎉 **V "Emergency Celebration"** ~ Festive themed collection
+18. 🎯 **The Bullet That Missed** by Richard Osman ~ Thursday Murder Club tackles another clever case
+19. 🧹 **The Housemaid** by Freida McFadden ~ Psychological thriller with unexpected twists
+20. 🦝 **Aggretsuko** by Yeti ~ Office worker red panda channels frustration through karaoke
+21. 🏥 **The Mad Woman's Ball** by Victoria Mas ~ 1885 Paris asylum story about women and power
+22. 🐉 **Sea Monsters** by Chloe Aridjis ~ Surreal coming-of-age tale set in Mexico City
+23. ⛵ **The Stranger in the Lifeboat** by Mitch Albom ~ Shipwreck survivors encounter a mysterious stranger
+24. 🧚 **The Godmother** by Hannelore Cayre ~ Elderly French-Arab woman becomes unlikely drug queenpin
+25. 🌶️ **Paprika** by Yasutaka Tsutsui ~ Dream detective investigates nightmares in surreal mystery
+26. ⏱️ **A Brief History of Time** by Stephen Hawking 🎧 ~ Cosmos explained from the Big Bang to black holes
 
 ---
 
@@ -258,7 +260,6 @@ And more, list is a WIP.
 ## 📖 Want to Read
 - [ ] 💣 **The Rotters Club** by Jonathan Coe ~ IRA and punk rock collide in 1970s Birmingham
 - [ ] 🦓 **Why Zebras Don't Get Ulcers** by Robert Sapolsky ~ Stress science explained through animal behavior
-- [ ] 🌲 **Where I Lived, and What I Lived For** by Henry David Thoreau ~ Walden excerpt on intentional living
 - [ ] 🦋 **Butterflies in November** by Auður Ava Ólafsdóttir ~ Road trip around Iceland with heartwarming connections
 - [ ] 🐾 **Corfu Trilogy** by Gerald Durrell ~ Charming memoirs of childhood on a Greek island
 - [ ] 🍷 **A Year in Provence** by Peter Mayle ~ Life in rural France with humor and warmth
@@ -268,7 +269,6 @@ And more, list is a WIP.
 - [ ] 📚 **The Rabbit Back Literature Society** by Pasi Ilmari Jääskeläinen ~ Finnish mystery about a secret book club
 - [ ] ✨ **The Joy of Less** by Francine Jay ~ Minimalist living guide
 - [ ] 🎭 **The 7½ Deaths of Evelyn Hardcastle** by Stuart Turton ~ Time-loop murder mystery
-- [ ] 🌍 **The Anthropocene Reviewed** by John Green ~ Thoughtful essays on the human experience
 - [ ] 🐴 **Pegs and Jokers** by Jane Smiley ~ Animals as main characters exploring friendship
 - [ ] 💔 **Adult Children of Emotionally Immature Parents** by Lindsay C. Gibson
 - [ ] 🦋 **The Diving Bell and the Butterfly** by Jean-Dominique Bauby ~ Powerful memoir written after a stroke
@@ -285,8 +285,6 @@ And more, list is a WIP.
 - [ ] 🚪 **The Ten Thousand Doors of January** by Alix E. Harrow ~ Wonder-filled portal fantasy
 - [ ] 🏚️ **Rebecca** by Daphne du Maurier ~ Gothic mystery with atmosphere and suspense
 - [ ] 🪟 **The Glassmaker** by Tracy Chevalier ~ Historical fiction about Venetian glassmaking
-- [ ] ✨ **Alchemised** by Senlinyu ~ Fantasy romance
-- [ ] ⚔️ **The Executioner's Three** by Susan Dennard ~ Fantasy adventure
 - [ ] 🌙 **Immortal** by Sue Lynn Tan ~ Chinese mythology-inspired fantasy
 
 ---
