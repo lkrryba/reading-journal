@@ -2,10 +2,10 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read: 213**  
-**Re-reads: 6**  
-**Works by family members: 2** (Joe Marler and Richard Wicker)  
-**Countries (setting and/or author origin):** 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+**Total books read:** 213  
+**Re-reads:** 6  
+**Works by family members:** 2 (Joe Marler and Richard Wicker)  
+**Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 - 🎧 = audio book  
 - 🔁 = re-read
