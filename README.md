@@ -14,7 +14,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 
 ## 2026
 
-1. 📚 **A Case of Exploding Mangoes** by Mohammed Hanif ~ A rip-roaring Pakistani conspiracy-fest full of wit and political intrigue 🇵🇰
+1. 🥭 **A Case of Exploding Mangoes** by Mohammed Hanif ~ A rip-roaring Pakistani conspiracy-fest full of wit and political intrigue 🇵🇰
 2. ❄️ **The Snow Queen** by Hans Christian Andersen ~ Magical tale in frosty landscapes where love conquers all
 3. 🍋 **Driving Over Lemons** by Chris Stewart ~ Beautiful snapshot of rural life in Andalusia 🇪🇸
 4. ☁️ **The Five People You Meet in Heaven** by Mitch Albom ~ It might not be people you love, like or know~but they all matter
