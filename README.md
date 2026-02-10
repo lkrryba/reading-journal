@@ -2,10 +2,10 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read: 201**  
+**Total books read: 213**  
 **Re-reads: 6**  
 **Works by family members: 2** (Joe Marler and Richard Wicker)  
-**Countries:** 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+**Countries (setting and/or author origin):** 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 - 🎧 = audio book  
 - 🔁 = re-read
@@ -121,42 +121,52 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 24. 🧚 **The Godmother** by Hannelore Cayre ~ Elderly French-Arab woman becomes unlikely drug queenpin 🇫🇷
 25. 🌶️ **Paprika** by Yasutaka Tsutsui ~ Dream detective investigates nightmares in surreal mystery
 26. ⏱️🎧 **A Brief History of Time** by Stephen Hawking ~ Cosmos explained from the Big Bang to black holes
+27. 👶 **First-Time Parent** by Lucy Atkins ~ Honest, practical guide to surviving baby's first year with your sanity intact
 
 ---
-
 ## 2022
 
-1. 🇺🇸 **The President is Missing** by Bill Clinton & James Patterson ~ High-stakes political thriller
-2. 🐷 **The Pig Who Wanted to be Eaten** by Julian Baggini ~ Philosophy through engaging thought experiments
-3. ⚓ **The Sailor Who Fell From Grace With The Sea** by Yukio Mishima ~ Intense Japanese coming-of-age story 🇯🇵
-4. ➗ **The Housekeeper and the Professor** by Yoko Ogawa ~ Beautiful story about memory, math, and connection
-5. 💼 **There's No Such Thing As An Easy Job** by Kikuko Tsumura ~ Woman explores five unusual jobs
-6. 🏃 **The Perfect Escape** by Leah Konen ~ Vacation thriller with unexpected turns
-7. 🌊 **Malibu Rising** by Taylor Jenkins Reid ~ Family drama set against 1980s Malibu backdrop 🇺🇸
-8. 👻 **How to Disappear** by Gillian McAllister ~ A story about a 14-year-old girl who witnesses a murder but then gives a false statement in court
-9. 😨 **The Gift of Fear** by Gavin de Becker ~ Trusting intuition for personal safety
-10. 🧹 **The Maid** by Nita Prose ~ Hotel maid with unique perspective solves a murder
-11. 👯 **Wahala** by Nikki May ~ Nigerian-British friendship dynamics and complexities 🇳🇬
-12. 🏢 **The Paris Apartment** by Lucy Foley ~ Mysterious building where secrets hide behind every door
-13. 🇰🇵 **Nothing to Envy** by Barbara Demick ~ North Korean defectors share their powerful stories
-14. 🧬 **Sapiens: Graphic History** by Yuval Noah Harari ~ Human evolution illustrated beautifully
-15. 🏖️ **We Were Never There** by Andrea Bartz ~ Friendship tested by mysterious circumstances
-16. 🕵️ **Permanent Record** by Edward Snowden ~ Whistleblower's account of privacy and surveillance
-17. 🔮 **The Premonition Bureau** by Sam Knight ~ WWII mass observation meets precognition research
-18. 💬 **Loaded Language** by Ali Almossawi ~ An illustrated book using pen-and-ink drawings and a metaphorical conflict between badgers and rabbits
-19. 🐱 **Catology** by Various ~ Understanding the fascinating science of cats
-20. 👭 **Sista, Sister** by Candice Brathwaite ~ All the things the author wishes she'd been told when she was young and needed guidance
-21. 🌏 **Ponti** by Sharlene Teo ~ Singapore story about two teenage friends, one's mysterious actress mother, and a cult horror film that connects them across seventeen years 🇸🇬
-22. 🪄 **Treacle Walker** by Alan Garner ~ Mystical novella blending folklore and magic
-23. 🔥 **Heatwave** by Victor Jestin ~ French teen's transformative summer 🇫🇷
-24. ✊ **Why I'm No Longer Talking to White People About Race** by Reni Eddo-Lodge ~ Essential reading on structural racism in Britain 🇬🇧
-25. 🏠 **The Paper Palace** by Miranda Cowley Heller ~ One summer unravels decades of family secrets
-26. 🗺️ **Escape Routes** by Naomi Ishiguro ~ Interconnected stories about seeking new paths
-27. 🌅 **Sunset** by Jessie Cave ~ Darkly comic exploration of grief and mental health
-28. 💑 **How to Have Feminist Sex** by Flo Perry ~ Guide to pleasure and equality in intimacy
-29. 🌳 **Bewilderment** by Richard Powers ~ Father and son navigate life after loss
-30. 💔 **How to Overcome Your Childhood** by The School of Life ~ Understanding and moving beyond early experiences
-
+1. 👨‍⚖️ **Men Who Hate Women** by Laura Bates ~ Investigating the dangerous rise of the manosphere and online extremism against women
+2. 💀 🇳🇬 **My Sister, the Serial Killer** by Oyinkan Braithwaite ~ A darkly comic Nigerian tale of two sisters, one a nurse who cleans up after her beautiful sister's deadly romantic encounters
+3. 🍜 🇱🇦 **The Coroner's Lunch** by Colin Cotterill ~ A 72-year-old doctor becomes Laos's national coroner in this charming mystery set in 1970s communist Laos
+4. 🤐 **The Silent Patient** by Alex Michaelides ~ A woman shoots her husband and never speaks again; a psychotherapist becomes obsessed with uncovering why
+5. 😤 **Outraged** by Ashley 'Dotty' Charles ~ Exploring why everyone's so angry and how we can channel rage into positive change
+6. 🎭 **Seven Husbands of Evelyn Hugo** by Taylor Jenkins Reid ~ Aging Hollywood icon reveals the truth about her glamorous life and seven marriages to an unknown journalist
+7. 🏰 🇯🇵 **Lonely Castle in the Mirror** by Mizuki Tsujimura ~ Japanese teenagers discover a magical castle through their bedroom mirrors and must solve its mystery
+8. 🏘️ 🇯🇵 **People from My Neighborhood** by Hiromi Kawakami ~ Surreal, interconnected stories about the eccentric inhabitants of a Tokyo neighborhood
+9. 🏔️ 🇨🇭 **The Sanitorium** by Sarah Pearse ~ A detective investigates disappearances at a remote hotel converted from an old sanatorium in the Swiss Alps
+10. 👶 **Detransition, Baby** by Torrey Peters ~ Three people navigate parenthood, identity, and family when an unexpected pregnancy brings them together
+11. 🐈 🇯🇵 **The Cat and the City** by Nick Bradley ~ Interconnected stories following a cat through Tokyo, revealing the hidden lives of the city's inhabitants
+12. 🇺🇸 **The President is Missing** by Bill Clinton & James Patterson ~ High-stakes political thriller
+13. 🐷 **The Pig Who Wanted to be Eaten** by Julian Baggini ~ Philosophy through engaging thought experiments
+14. ⚓ 🇯🇵 **The Sailor Who Fell From Grace With The Sea** by Yukio Mishima ~ Intense Japanese coming-of-age story
+15. ➗ **The Housekeeper and the Professor** by Yoko Ogawa ~ Beautiful story about memory, math, and connection
+16. 💼 **There's No Such Thing As An Easy Job** by Kikuko Tsumura ~ Woman explores five unusual jobs
+17. 🏃 **The Perfect Escape** by Leah Konen ~ Vacation thriller with unexpected turns
+18. 🌊 🇺🇸 **Malibu Rising** by Taylor Jenkins Reid ~ Family drama set against 1980s Malibu backdrop
+19. 👻 **How to Disappear** by Gillian McAllister ~ A story about a 14-year-old girl who witnesses a murder but then gives a false statement in court
+20. 😨 **The Gift of Fear** by Gavin de Becker ~ Trusting intuition for personal safety
+21. 🧹 **The Maid** by Nita Prose ~ Hotel maid with unique perspective solves a murder
+22. 👯 🇳🇬 **Wahala** by Nikki May ~ Nigerian-British friendship dynamics and complexities
+23. 🏢 **The Paris Apartment** by Lucy Foley ~ Mysterious building where secrets hide behind every door
+24. 🇰🇵 **Nothing to Envy** by Barbara Demick ~ North Korean defectors share their powerful stories
+25. 🧬 **Sapiens: Graphic History** by Yuval Noah Harari ~ Human evolution illustrated beautifully
+26. 🏖️ **We Were Never There** by Andrea Bartz ~ Friendship tested by mysterious circumstances
+27. 🕵️ **Permanent Record** by Edward Snowden ~ Whistleblower's account of privacy and surveillance
+28. 🔮 **The Premonition Bureau** by Sam Knight ~ WWII mass observation meets precognition research
+29. 👭 **Sista, Sister** by Candice Brathwaite ~ All the things the author wishes she'd been told when she was young and needed guidance
+30. 💬 **Loaded Language** by Ali Almossawi ~ An illustrated book using pen-and-ink drawings and a metaphorical conflict between badgers and rabbits
+31. 🌏 🇸🇬 **Ponti** by Sharlene Teo ~ Singapore story about two teenage friends, one's mysterious actress mother, and a cult horror film that connects them across seventeen years
+32. 🪄 **Treacle Walker** by Alan Garner ~ Mystical novella blending folklore and magic
+33. 🔥 🇫🇷 **Heatwave** by Victor Jestin ~ French teen's transformative summer
+34. ✊ 🇬🇧 **Why I'm No Longer Talking to White People About Race** by Reni Eddo-Lodge ~ Essential reading on structural racism in Britain
+35. 🏠 **The Paper Palace** by Miranda Cowley Heller ~ One summer unravels decades of family secrets
+36. 🗺️ **Escape Routes** by Naomi Ishiguro ~ Interconnected stories about seeking new paths
+37. 🐱 **Catology** by Various ~ Understanding the fascinating science of cats
+38. 🌅 **Sunset** by Jessie Cave ~ Darkly comic exploration of grief and mental health
+39. 💑 **How to Have Feminist Sex** by Flo Perry ~ Guide to pleasure and equality in intimacy
+40. 🌳 **Bewilderment** by Richard Powers ~ Father and son navigate life after loss
+41. 💔 **How to Overcome Your Childhood** by The School of Life ~ Understanding and moving beyond early experiences
 ---
 
 ## 2021
