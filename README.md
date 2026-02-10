@@ -127,39 +127,39 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 ## 2022
 
 1. 👨‍⚖️ **Men Who Hate Women** by Laura Bates ~ Investigating the dangerous rise of the manosphere and online extremism against women
-2. 💀 🇳🇬 **My Sister, the Serial Killer** by Oyinkan Braithwaite ~ A darkly comic Nigerian tale of two sisters, one a nurse who cleans up after her beautiful sister's deadly romantic encounters
-3. 🍜 🇱🇦 **The Coroner's Lunch** by Colin Cotterill ~ A 72-year-old doctor becomes Laos's national coroner in this charming mystery set in 1970s communist Laos
+2. 💀 **My Sister, the Serial Killer** by Oyinkan Braithwaite ~ A darkly comic Nigerian tale of two sisters, one a nurse who cleans up after her beautiful sister's deadly romantic encounters 🇳🇬
+3. 🍜 **The Coroner's Lunch** by Colin Cotterill ~ A 72-year-old doctor becomes Laos's national coroner in this charming mystery set in 1970s communist Laos 🇱🇦
 4. 🤐 **The Silent Patient** by Alex Michaelides ~ A woman shoots her husband and never speaks again; a psychotherapist becomes obsessed with uncovering why
 5. 😤 **Outraged** by Ashley 'Dotty' Charles ~ Exploring why everyone's so angry and how we can channel rage into positive change
 6. 🎭 **Seven Husbands of Evelyn Hugo** by Taylor Jenkins Reid ~ Aging Hollywood icon reveals the truth about her glamorous life and seven marriages to an unknown journalist
-7. 🏰 🇯🇵 **Lonely Castle in the Mirror** by Mizuki Tsujimura ~ Japanese teenagers discover a magical castle through their bedroom mirrors and must solve its mystery
-8. 🏘️ 🇯🇵 **People from My Neighborhood** by Hiromi Kawakami ~ Surreal, interconnected stories about the eccentric inhabitants of a Tokyo neighborhood
-9. 🏔️ 🇨🇭 **The Sanitorium** by Sarah Pearse ~ A detective investigates disappearances at a remote hotel converted from an old sanatorium in the Swiss Alps
+7. 🏰 **Lonely Castle in the Mirror** by Mizuki Tsujimura ~ Japanese teenagers discover a magical castle through their bedroom mirrors and must solve its mystery 🇯🇵
+8. 🏘️ **People from My Neighborhood** by Hiromi Kawakami ~ Surreal, interconnected stories about the eccentric inhabitants of a Tokyo neighborhood 🇯🇵
+9. 🏔️ **The Sanitorium** by Sarah Pearse ~ A detective investigates disappearances at a remote hotel converted from an old sanatorium in the Swiss Alps 🇨🇭
 10. 👶 **Detransition, Baby** by Torrey Peters ~ Three people navigate parenthood, identity, and family when an unexpected pregnancy brings them together
-11. 🐈 🇯🇵 **The Cat and the City** by Nick Bradley ~ Interconnected stories following a cat through Tokyo, revealing the hidden lives of the city's inhabitants
-12. 🇺🇸 **The President is Missing** by Bill Clinton & James Patterson ~ High-stakes political thriller
+11. 🐈 **The Cat and the City** by Nick Bradley ~ Interconnected stories following a cat through Tokyo, revealing the hidden lives of the city's inhabitants 🇯🇵
+12. 🇺🇸 **The President is Missing** by Bill Clinton & James Patterson ~ High-stakes political thriller 🇺🇸
 13. 🐷 **The Pig Who Wanted to be Eaten** by Julian Baggini ~ Philosophy through engaging thought experiments
-14. ⚓ 🇯🇵 **The Sailor Who Fell From Grace With The Sea** by Yukio Mishima ~ Intense Japanese coming-of-age story
+14. ⚓ **The Sailor Who Fell From Grace With The Sea** by Yukio Mishima ~ Intense Japanese coming-of-age story 🇯🇵
 15. ➗ **The Housekeeper and the Professor** by Yoko Ogawa ~ Beautiful story about memory, math, and connection
 16. 💼 **There's No Such Thing As An Easy Job** by Kikuko Tsumura ~ Woman explores five unusual jobs
 17. 🏃 **The Perfect Escape** by Leah Konen ~ Vacation thriller with unexpected turns
-18. 🌊 🇺🇸 **Malibu Rising** by Taylor Jenkins Reid ~ Family drama set against 1980s Malibu backdrop
+18. 🌊 **Malibu Rising** by Taylor Jenkins Reid ~ Family drama set against 1980s Malibu backdrop 🇺🇸
 19. 👻 **How to Disappear** by Gillian McAllister ~ A story about a 14-year-old girl who witnesses a murder but then gives a false statement in court
 20. 😨 **The Gift of Fear** by Gavin de Becker ~ Trusting intuition for personal safety
 21. 🧹 **The Maid** by Nita Prose ~ Hotel maid with unique perspective solves a murder
-22. 👯 🇳🇬 **Wahala** by Nikki May ~ Nigerian-British friendship dynamics and complexities
+22. 👯 **Wahala** by Nikki May ~ Nigerian-British friendship dynamics and complexities 🇳🇬
 23. 🏢 **The Paris Apartment** by Lucy Foley ~ Mysterious building where secrets hide behind every door
-24. 🇰🇵 **Nothing to Envy** by Barbara Demick ~ North Korean defectors share their powerful stories
+24. 🇰🇵 **Nothing to Envy** by Barbara Demick ~ North Korean defectors share their powerful stories 🇰🇵
 25. 🧬 **Sapiens: Graphic History** by Yuval Noah Harari ~ Human evolution illustrated beautifully
 26. 🏖️ **We Were Never There** by Andrea Bartz ~ Friendship tested by mysterious circumstances
 27. 🕵️ **Permanent Record** by Edward Snowden ~ Whistleblower's account of privacy and surveillance
 28. 🔮 **The Premonition Bureau** by Sam Knight ~ WWII mass observation meets precognition research
 29. 👭 **Sista, Sister** by Candice Brathwaite ~ All the things the author wishes she'd been told when she was young and needed guidance
 30. 💬 **Loaded Language** by Ali Almossawi ~ An illustrated book using pen-and-ink drawings and a metaphorical conflict between badgers and rabbits
-31. 🌏 🇸🇬 **Ponti** by Sharlene Teo ~ Singapore story about two teenage friends, one's mysterious actress mother, and a cult horror film that connects them across seventeen years
+31. 🌏 **Ponti** by Sharlene Teo ~ Singapore story about two teenage friends, one's mysterious actress mother, and a cult horror film that connects them across seventeen years 🇸🇬
 32. 🪄 **Treacle Walker** by Alan Garner ~ Mystical novella blending folklore and magic
-33. 🔥 🇫🇷 **Heatwave** by Victor Jestin ~ French teen's transformative summer
-34. ✊ 🇬🇧 **Why I'm No Longer Talking to White People About Race** by Reni Eddo-Lodge ~ Essential reading on structural racism in Britain
+33. 🔥 **Heatwave** by Victor Jestin ~ French teen's transformative summer 🇫🇷
+34. ✊ **Why I'm No Longer Talking to White People About Race** by Reni Eddo-Lodge ~ Essential reading on structural racism in Britain 🇬🇧
 35. 🏠 **The Paper Palace** by Miranda Cowley Heller ~ One summer unravels decades of family secrets
 36. 🗺️ **Escape Routes** by Naomi Ishiguro ~ Interconnected stories about seeking new paths
 37. 🐱 **Catology** by Various ~ Understanding the fascinating science of cats
@@ -179,7 +179,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 6. 🧠 **Stop Ruminating** by Nick Trenton ~ Breaking the cycle of overthinking
 7. 🧘 **Calm the F*ck Down** by Sarah Knight ~ Practical guide to managing anxiety
 8. 🤖 **Klara and the Sun** by Kazuo Ishiguro ~ AI companion contemplates love and humanity
-9. 🇰🇵 **In Order to Live** by Yeonmi Park ~ North Korean defector's powerful survival story
+9. 🇰🇵 **In Order to Live** by Yeonmi Park ~ North Korean defector's powerful survival story 🇰🇵
 10. 📚 **An Illustrated Book of Bad Arguments** by Ali Almossawi ~ Visual guide to logical fallacies told via woodland animals
 11. 🏉💙 **Loosehead Prop** by Joe Marler ~ Rugby memoir by my cousin Joe
 12. 💅 **Women Don't Owe You Pretty** by Florence Given ~ Feminist guide to self-love and boundaries
@@ -242,7 +242,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 10. 🏛️ **Mythos** by Stephen Fry ~ Greek myths retold with wit and warmth 🇬🇷
 11. 🌬️ **The Western Wind** by Samantha Harvey ~ Medieval priest investigates a death in his village
 12. 🎭 **Six Impossible Things** by Lewis Wolpert ~ Exploring the evolutionary origins of belief
-13. 🇸🇪 **Lagom** by Linnea Dunne ~ Swedish philosophy of balanced living
+13. 🇸🇪 **Lagom** by Linnea Dunne ~ Swedish philosophy of balanced living 🇸🇪
 14. 🦸 **Heroes** by Stephen Fry ~ Greek heroes and their epic adventures retold 🇬🇷
 15. 🐺 **The Tenderness of Wolves** by Stef Penney ~ Murder mystery in 1860s Canadian wilderness 🇨🇦
 16. 😰 **Notes on a Nervous Planet** by Matt Haig ~ Finding calm in an anxious world
@@ -272,7 +272,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 - [ ] 💣 **The Rotters Club** by Jonathan Coe ~ IRA and punk rock collide in 1970s Birmingham 🇬🇧
 - [ ] 🦓 **Why Zebras Don't Get Ulcers** by Robert Sapolsky ~ Stress science explained through animal behavior
 - [ ] 🦋 **Butterflies in November** by Auður Ava Ólafsdóttir ~ Road trip around Iceland with heartwarming connections 🇮🇸
-- [ ] 🐾 **Corfu Trilogy** by Gerald Durrell ~ Charming memoirs of childhood on a Greek island  🇬🇷
+- [ ] 🐾 **Corfu Trilogy** by Gerald Durrell ~ Charming memoirs of childhood on a Greek island 🇬🇷
 - [ ] 🍷 **A Year in Provence** by Peter Mayle ~ Life in rural France with humor and warmth 🇫🇷
 - [ ] 🐧 **Death and the Penguin** by Andrey Kurkov ~ Ukrainian writer and his penguin companion in bizarre adventures 🇺🇦
 - [ ] 🦝 **Unmasked** by Jennifer Kaelin ~ Animal detective story with wit and creativity
