@@ -152,7 +152,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 24. ✊ **Why I'm No Longer Talking to White People About Race** by Reni Eddo-Lodge ~ Essential reading on structural racism in Britain 🇬🇧
 25. 🏠 **The Paper Palace** by Miranda Cowley Heller ~ One summer unravels decades of family secrets
 26. 🗺️ **Escape Routes** by Naomi Ishiguro ~ Interconnected stories about seeking new paths
-27. 🌅 **Sunset** by Jessie Cave ~ Darkly comic exploration of motherhood and mental health
+27. 🌅 **Sunset** by Jessie Cave ~ Darkly comic exploration of grief and mental health
 28. 💑 **How to Have Feminist Sex** by Flo Perry ~ Guide to pleasure and equality in intimacy
 29. 🌳 **Bewilderment** by Richard Powers ~ Father and son navigate life after loss
 30. 💔 **How to Overcome Your Childhood** by The School of Life ~ Understanding and moving beyond early experiences
@@ -179,7 +179,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 16. ✈️ **Falling** by T.J. Newman ~ Flight attendant's family held hostage mid-flight
 17. ⛪ **The Confession** by Jessie Burton ~ Artist's maid harbors dangerous secrets in 1980s London 🇬🇧
 18. 🔎 **The Thursday Murder Club** by Richard Osman ~ Retirees investigate cold cases
-19. 🎲 **Fifty Fifty** by Steve Cavanagh ~ Defense lawyer's daughter accused of double murder
+19. 🎲 **Fifty Fifty** by Steve Cavanagh ~ Defense lawyer's daughters accused of double murder
 20. 👑 **Drama Queen** by Sara Gibbs ~ Autistic journalist navigates life and embraces authenticity
 21. 📝 **I Feel Bad About My Neck** by Nora Ephron ~ Witty essays on aging and life
 22. 💀 **How to Kill Your Family** by Bella Mackie ~ Dark comedy about revenge and inheritance
@@ -245,14 +245,14 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 
 1. 🎩 **The Great Gatsby** by F. Scott Fitzgerald ~ Jazz Age tragedy of wealth and obsession
 2. 🏝️ **Treasure Island** by Robert Louis Stevenson ~ Classic pirate adventure
-3. 📚 **The Book of Dust** by Philip Pullman ~ Return to the world of His Dark Materials
+3. 🐻‍❄️ **The Book of Dust** by Philip Pullman ~ Return to the world of His Dark Materials
 4. 💍 **Breakfast at Tiffany's** by Truman Capote ~ Iconic New York socialite Holly Golightly 🇺🇸
 5. 🕵️ **The Spy Who Came In From The Cold** by John le Carré ~ Classic Cold War espionage thriller
 6. 🎨 **The Muse** by Jessie Burton ~ Art, secrets, and deception across two time periods
 7. 📦 **The Keeper of Lost Things** by Ruth Hogan ~ Heartwarming story about treasured objects and connections
 8. 🦋 **Moth Smoke** by Mohsin Hamid ~ Love triangle in pre-9/11 Lahore 🇵🇰
 9. 🐦 **Wind-Up Bird Chronicle** by Haruki Murakami ~ Surreal journey through Japan's dark history 🇯🇵
-10. 🇷🇺 **A Gentleman in Moscow** by Amor Towles ~ Count under house arrest in luxury hotel
+10. 🪆**A Gentleman in Moscow** by Amor Towles ~ Count under house arrest in luxury hotel 🇷🇺
 11. 🌊 **Everything Under** by Daisy Johnson ~ Modern retelling of Oedipus along British waterways 🇬🇧
 12. 🎄 **The Christmas Lights** by Karen Swan ~ Festive romance and family secrets
 
@@ -261,13 +261,13 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 ## 📖 Want to Read
 - [ ] 💣 **The Rotters Club** by Jonathan Coe ~ IRA and punk rock collide in 1970s Birmingham 🇬🇧
 - [ ] 🦓 **Why Zebras Don't Get Ulcers** by Robert Sapolsky ~ Stress science explained through animal behavior
-- [ ] 🦋 **Butterflies in November** by Auður Ava Ólafsdóttir ~ Road trip around Iceland 🇮🇸 with heartwarming connections
-- [ ] 🐾 **Corfu Trilogy** by Gerald Durrell ~ Charming memoirs of childhood on a Greek 🇬🇷 island
-- [ ] 🍷 **A Year in Provence** by Peter Mayle ~ Life in rural France 🇫🇷 with humor and warmth
-- [ ] 🐧 **Death and the Penguin** by Andrey Kurkov ~ Ukrainian 🇺🇦 writer and his penguin companion in bizarre adventures
+- [ ] 🦋 **Butterflies in November** by Auður Ava Ólafsdóttir ~ Road trip around Iceland with heartwarming connections 🇮🇸
+- [ ] 🐾 **Corfu Trilogy** by Gerald Durrell ~ Charming memoirs of childhood on a Greek island  🇬🇷
+- [ ] 🍷 **A Year in Provence** by Peter Mayle ~ Life in rural France with humor and warmth 🇫🇷
+- [ ] 🐧 **Death and the Penguin** by Andrey Kurkov ~ Ukrainian writer and his penguin companion in bizarre adventures 🇺🇦
 - [ ] 🦝 **Unmasked** by Jennifer Kaelin ~ Animal detective story with wit and creativity
-- [ ] 🔥 **The Woman at 1,000 Degrees** by Hallgrímur Helgason ~ Icelandic 🇮🇸 woman's epic life story
-- [ ] 📚 **The Rabbit Back Literature Society** by Pasi Ilmari Jääskeläinen ~ Finnish 🇫🇮 mystery about a secret book club
+- [ ] 🔥 **The Woman at 1,000 Degrees** by Hallgrímur Helgason ~ Icelandic woman's epic life story 🇮🇸
+- [ ] 📚 **The Rabbit Back Literature Society** by Pasi Ilmari Jääskeläinen ~ Finnish mystery about a secret book club 🇫🇮
 - [ ] ✨ **The Joy of Less** by Francine Jay ~ Minimalist living guide
 - [ ] 🎭 **The 7½ Deaths of Evelyn Hardcastle** by Stuart Turton ~ Time-loop murder mystery
 - [ ] 🐴 **Pegs and Jokers** by Jane Smiley ~ Animals as main characters exploring friendship
@@ -285,8 +285,8 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 - [ ] 🔥 **Fahrenheit 451** by Ray Bradbury ~ Dystopian classic about censorship 
 - [ ] 🚪 **The Ten Thousand Doors of January** by Alix E. Harrow ~ Wonder-filled portal fantasy
 - [ ] 🏚️ **Rebecca** by Daphne du Maurier ~ Gothic mystery with atmosphere and suspense
-- [ ] 🪟 **The Glassmaker** by Tracy Chevalier ~ Historical fiction about Venetian 🇮🇹 glassmaking
-- [ ] 🌙 **Immortal** by Sue Lynn Tan ~ Chinese 🇨🇳 mythology-inspired fantasy
+- [ ] 🪟 **The Glassmaker** by Tracy Chevalier ~ Historical fiction about Venetian glassmaking 🇮🇹
+- [ ] 🌙 **Immortal** by Sue Lynn Tan ~ Chinese mythology-inspired fantasy 🇨🇳
 ---
 Always happy to hear recos! 
 
