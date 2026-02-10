@@ -81,7 +81,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 17. 🕯️ **A Flicker in the Dark** by Stacy Willingham ~ Psychologist's father was a serial killer, now similar murders are happening again
 18. 🎭 **The Castaways** by Lucy Clarke ~ Friends on a dream vacation face survival when everything goes wrong
 19. 💍 **The Husbands** by Chandler Baker ~ Wives discover their husbands are suspiciously perfect
-20. 📚 **Weird Books** ~ Collection of strange and unusual stories
+20. 📚 **Weird F*cks** ~ Collection of strange and unusual stories
 21. 🎨 **Liar, Dreamer, Thief** by Maria Dong ~ Office worker's inner world blurs with reality in unsettling ways
 22. ❄️ **Winter in Sokcho** by Elisa Shua Dusapin ~ Quiet French novel set in a South Korean seaside town
 23. 🔐 **The Twyford Code** by Janice Hallett ~ Mystery told through voice recordings and transcripts
@@ -110,7 +110,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 14. 🔎 **The Man Who Died Twice** by Richard Osman 🎧 ~ Thursday Murder Club's second clever adventure
 15. 🖕 **The Good Girl's Guide to Being a Dick** by Kat Brown ~ Permission to set boundaries and prioritize yourself
 16. 🧼 **How to Keep House While Drowning** by KC Davis ~ Compassionate approach to home care when life is overwhelming
-17. 🎉 **V "Emergency Celebration"** ~ Festive themed collection
+17. 🎉 **V: Empassioned Celebratio"** ~ Joy of all things female
 18. 🎯 **The Bullet That Missed** by Richard Osman ~ Thursday Murder Club tackles another clever case
 19. 🧹 **The Housemaid** by Freida McFadden ~ Psychological thriller with unexpected twists
 20. 🦝 **Aggretsuko** by Yeti ~ Office worker red panda channels frustration through karaoke
