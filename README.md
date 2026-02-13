@@ -2,7 +2,7 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read:** 213  
+**Total books read:** 214  
 **Re-reads:** 6  
 **Works by family members:** 2 (Joe Marler and Richard Wicker)  
 **Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -23,6 +23,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 7. 🌊 **Wavewalker** by Suzanne Heywood ~ Jaw-dropping memoir of a childhood spent at sea in the South Pacific 🇦🇺
 8. ✨ **The Alchemist** by Paulo Coelho ~ Epic journey about following your dreams and discovering your purpose
 9. 🌍 **Around the World in Eighty Days** by Jules Verne ~ Fun, old-fashioned odyssey full of adventure and determination
+10. 👑 **Lady in Waiting** by Anne Glenconner ~ Royal behind-the-scenes tea from a lady-in-waiting to Princess Margaret
 
 ---
 
