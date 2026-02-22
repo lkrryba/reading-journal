@@ -2,9 +2,9 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read:** 214  
+**Total books read:** 215  
 **Re-reads:** 6  
-**Works by family members:** 2 (Joe Marler and Richard Wicker)  
+**Works by family members:** 2 (Joe Marler and Richard M. Wicker)  
 **Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 - 🎧 = audio book  
@@ -24,6 +24,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 8. ✨ **The Alchemist** by Paulo Coelho ~ Epic journey about following your dreams and discovering your purpose
 9. 🌍 **Around the World in Eighty Days** by Jules Verne ~ Fun, old-fashioned odyssey full of adventure and determination
 10. 👑 **Lady in Waiting** by Anne Glenconner ~ Royal behind-the-scenes tea from a lady-in-waiting to Princess Margaret
+11. 🐙 **Remarkably Bright Creatures** by Shelby Van Pelt ~ Widow befriends a curmudgeonly octopus who helps solve a 30-year-old mystery
 
 ---
 
