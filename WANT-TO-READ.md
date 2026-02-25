@@ -1,6 +1,7 @@
 ## 📖 Want to Read
 - [ ] 💣 **The Rotters Club** by Jonathan Coe ~ IRA and punk rock collide in 1970s Birmingham 🇬🇧
 - [ ] 🦓 **Why Zebras Don't Get Ulcers** by Robert Sapolsky ~ Stress science explained through animal behavior
+- [ ] 👊 **Women & Power: A Manifesto** by Mary Beard ~ Classicist traces misogyny from ancient Greece to modern trolls, asking if we need to redefine power itself 
 - [ ] 🦋 **Butterflies in November** by Auður Ava Ólafsdóttir ~ Road trip around Iceland with heartwarming connections 🇮🇸
 - [ ] 🐾 **Corfu Trilogy** by Gerald Durrell ~ Charming memoirs of childhood on a Greek island 🇬🇷
 - [ ] 🍷 **A Year in Provence** by Peter Mayle ~ Life in rural France with humor and warmth 🇫🇷
