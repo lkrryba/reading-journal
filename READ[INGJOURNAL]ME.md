@@ -2,7 +2,7 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read:** 216  
+**Total books read:** 217  
 **Re-reads:** 6  
 **Works by family members:** 2 (Joe Marler and Richard M. Wicker)  
 **Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -27,6 +27,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 11. 🐙 **Remarkably Bright Creatures** by Shelby Van Pelt ~ Widow befriends a curmudgeonly octopus who helps solve a 30-year-old mystery
 12. ☕️ **How to Make the Best Coffee at Home** by James Hoffmann ~ Expert guide to brewing better coffee in your own kitchen
 13. 👻 **Of Ghosts and Goblins** by Lafcadio Hearn ~ Haunting tales featuring the phantoms and ghouls of Japanese folklore 🇯🇵
+14. 🛳️ **Down to the Sea in Ships** by Horatio Clare ~ First-hand account of life on two container ships as they make their epic voyages across the globe
 
 ---
 
