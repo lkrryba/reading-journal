@@ -28,7 +28,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 12. ☕️ **How to Make the Best Coffee at Home** by James Hoffmann ~ Expert guide to brewing better coffee in your own kitchen
 13. 👻 **Of Ghosts and Goblins** by Lafcadio Hearn ~ Haunting tales featuring the phantoms and ghouls of Japanese folklore 🇯🇵
 14. 🛳️ **Down to the Sea in Ships** by Horatio Clare ~ First-hand account of life on two container ships as they make their epic voyages across the globe
-15. - 🏪 **Convenience Store Woman** by Sayaka Murata ~ Woman finds purpose and identity in the rigid routines of her konbini job, resisting society's expectations
+15. 🏪 **Convenience Store Woman** by Sayaka Murata ~ Woman finds purpose and identity in the rigid routines of her konbini job, resisting society's expectations
 
 ---
 
