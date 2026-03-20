@@ -2,7 +2,7 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read:** 217  
+**Total books read:** 218  
 **Re-reads:** 6  
 **Works by family members:** 2 (Joe Marler and Richard M. Wicker)  
 **Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -29,6 +29,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 13. 👻 **Of Ghosts and Goblins** by Lafcadio Hearn ~ Haunting tales featuring the phantoms and ghouls of Japanese folklore 🇯🇵
 14. 🛳️ **Down to the Sea in Ships** by Horatio Clare ~ First-hand account of life on two container ships as they make their epic voyages across the globe
 15. 🏪 **Convenience Store Woman** by Sayaka Murata ~ Woman finds purpose and identity in the rigid routines of her konbini job, resisting society's expectations
+16. 🌌 **Cosmicomics** by Italo Calvino ~ Playful stories narrated by an ancient being witnessing the universe's formation, from the Big Bang to evolution 
 
 ---
 
