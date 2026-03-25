@@ -2,7 +2,7 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read:** 220  
+**Total books read:** 221  
 **Re-reads:** 6  
 **Works by family members:** 2 (Joe Marler and Richard M. Wicker)  
 **Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -33,6 +33,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 17. 👑🎧 **Entitled: The Rise and Fall of the House of York** by Andrew Lownie ~ Devastating biography exposing Prince Andrew and Sarah Ferguson's scandals, entitlement, and the Epstein connection
 18. 💄 **Only Say Good Things** by Crystal Hefner ~ Raw memoir exposing the toxic reality behind Playboy's glamorous facade and one woman's journey to reclaim her identity
 
+19. 💔 Nobody's Girl by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival
 ---
 
 ## 2025
