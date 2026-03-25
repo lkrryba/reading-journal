@@ -30,7 +30,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 14. 🛳️ **Down to the Sea in Ships** by Horatio Clare ~ First-hand account of life on two container ships as they make their epic voyages across the globe
 15. 🏪 **Convenience Store Woman** by Sayaka Murata ~ Woman finds purpose and identity in the rigid routines of her konbini job, resisting society's expectations
 16. 🌌 **Cosmicomics** by Italo Calvino ~ Playful stories narrated by an ancient being witnessing the universe's formation, from the Big Bang to evolution
-17. 👑 **Entitled: The Rise and Fall of the House of York** (🎧) by Andrew Lownie ~ Devastating biography exposing Prince Andrew and Sarah Ferguson's scandals, entitlement, and the Epstein connection
+17. 👑🎧 **Entitled: The Rise and Fall of the House of York** by Andrew Lownie ~ Devastating biography exposing Prince Andrew and Sarah Ferguson's scandals, entitlement, and the Epstein connection
 18. 💄 **Only Say Good Things** by Crystal Hefner ~ Raw memoir exposing the toxic reality behind Playboy's glamorous facade and one woman's journey to reclaim her identity
 
 ---
