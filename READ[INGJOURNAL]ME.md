@@ -278,5 +278,3 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 
 ---
 Always happy to hear recos! 
-
-*Last updated: March 2026*
