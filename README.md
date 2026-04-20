@@ -33,8 +33,8 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 17. 👑🎧 **Entitled: The Rise and Fall of the House of York** by Andrew Lownie ~ Devastating biography exposing Prince Andrew and Sarah Ferguson's scandals, entitlement, and the Epstein connection
 18. 💄 **Only Say Good Things** by Crystal Hefner ~ Raw memoir exposing the toxic reality behind Playboy's glamorous facade and one woman's journey to reclaim her identity
 19. **🪐 The Little Prince** by Antoine de Saint-Exupéry ~ Timeless tale of a boy from space teaching profound life lessons through his cosmic journey
-20. - **🗾 Abroad in Japan** by Chris Broad ~ YouTuber's hilarious decade-long journey navigating culture clashes, earthquakes, and quirky adventures across all 47 prefectures 🇯🇵 
-21. - 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and other powerful abusers
+20. **🗾 Abroad in Japan** by Chris Broad ~ YouTuber's hilarious decade-long journey navigating culture clashes, earthquakes, and quirky adventures across all 47 prefectures 🇯🇵 
+21. 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and other powerful abusers
 
 ---
 
