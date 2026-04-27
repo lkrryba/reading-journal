@@ -36,7 +36,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 20. **🗾 Abroad in Japan** by Chris Broad ~ YouTuber's hilarious decade-long journey navigating culture clashes, earthquakes, and quirky adventures across all 47 prefectures 🇯🇵 
 21. 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and other powerful abusers
 22. 🛞 **Deep Wheel Orcadia** by Harry Josephine Giles ~ Sci-fi verse novel in Orkney dialect about love and belonging on a struggling space ship
-23. 📚(🎧) **A Short Stay in Hell** by Steven L. Peck ~ Mormon man awakens in hell as an infinite library where he must find the one book containing his life story
+23. 📚🎧 **A Short Stay in Hell** by Steven L. Peck ~ Mormon man awakens in hell as an infinite library where he must find the one book containing his life story
 
 ---
 
