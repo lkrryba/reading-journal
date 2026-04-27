@@ -2,7 +2,7 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read:** 225  
+**Total books read:** 227  
 **Re-reads:** 6  
 **Works by family members:** 2 (Joe Marler and Richard M. Wicker)  
 **Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -35,6 +35,8 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 19. **🪐 The Little Prince** by Antoine de Saint-Exupéry ~ Timeless tale of a boy from space teaching profound life lessons through his cosmic journey
 20. **🗾 Abroad in Japan** by Chris Broad ~ YouTuber's hilarious decade-long journey navigating culture clashes, earthquakes, and quirky adventures across all 47 prefectures 🇯🇵 
 21. 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and other powerful abusers
+22. 🛞 **Deep Wheel Orcadia** by Harry Josephine Giles ~ Sci-fi verse novel in Orkney dialect about love and belonging on a struggling space ship
+23. 📚(🎧) **A Short Stay in Hell** by Steven L. Peck ~ Mormon man awakens in hell as an infinite library where he must find the one book containing his life story
 
 ---
 
