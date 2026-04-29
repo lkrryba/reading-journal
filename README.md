@@ -2,7 +2,7 @@
 
 A chronicle of literary adventures, page-turners, and wonderful discoveries. 
 
-**Total books read:** 227  
+**Total books read:** 228  
 **Re-reads:** 6  
 **Works by family members:** 2 (Joe Marler and Richard M. Wicker)  
 **Countries** (setting and/or author origin): 🇦🇫 🇦🇷 🇦🇺 🇧🇷 🇧🇼 🇨🇦 🇨🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇬🇧 🇬🇷 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇦 🇲🇽 🇳🇬 🇳🇱 🇳🇴 🇵🇰 🇷🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇸🇪 🇹🇷 🇺🇸 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -37,7 +37,7 @@ A chronicle of literary adventures, page-turners, and wonderful discoveries.
 21. 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and other powerful abusers
 22. 🛞 **Deep Wheel Orcadia** by Harry Josephine Giles ~ Sci-fi verse novel in Orkney dialect about love and belonging on a struggling space ship
 23. 📚🎧 **A Short Stay in Hell** by Steven L. Peck ~ Mormon man awakens in hell as an infinite library where he must find the one book containing his life story
-
+24. 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
 ---
 
 ## 2025
