@@ -1,6 +1,6 @@
 # 📚 Leanne's Reading Journal
 
-**Total books read:** 229  
+**Total books read:** 230  
 - 🎧 = audio book  
 - 🔁 = re-read
 - 💙 = author is a family member
@@ -31,8 +31,9 @@
 21. 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and other powerful abusers
 22. 🛞 **Deep Wheel Orcadia** by Harry Josephine Giles ~ Sci-fi verse novel in Orkney dialect about love and belonging on a struggling space ship
 23. 📚🎧 **A Short Stay in Hell** by Steven L. Peck ~ Mormon man awakens in hell as an infinite library where he must find the one book containing his life story
-24. 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-25. 🔥 **Wide Sargasso Sea** by Jean Rhys ~ Postcolonial prequel to Jane Eyre telling the story of the mad woman in the attic
+24. 📚🎧 **A Short Stay in Hell** by Steven L. Peck ~ Yes, I listened to this twice in a row.
+25. 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
+26. 🔥 **Wide Sargasso Sea** by Jean Rhys ~ Postcolonial prequel to Jane Eyre telling the story of the mad woman in the attic
 
 ---
 
