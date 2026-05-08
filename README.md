@@ -1,6 +1,6 @@
 # 📚 Leanne's Reading Journal
 
-**Total books read:** 230  
+**Total books read:** 231  
 - 🎧 = audio book  
 - 🔁 = re-read
 - 💙 = author is a family member
@@ -34,6 +34,7 @@
 24. 📚🎧 **A Short Stay in Hell** by Steven L. Peck ~ Yes, I listened to this twice in a row.
 25. 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
 26. 🔥 **Wide Sargasso Sea** by Jean Rhys ~ Postcolonial prequel to Jane Eyre telling the story of the mad woman in the attic
+27. 💪 **Taking Back My Power** by Georgia Harrison ~ Reality star's courageous fight for justice after revenge porn betrayal, changing UK law for image-based abuse victims
 
 ---
 
