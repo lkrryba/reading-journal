@@ -1,6 +1,6 @@
 # 📚 Leanne's Reading Journal
 
-**Total books read:** 231  
+**Total books read:** 233
 - 🎧 = audio book  
 - 🔁 = re-read
 - 💙 = author is a family member
