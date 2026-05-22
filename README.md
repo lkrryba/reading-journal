@@ -35,7 +35,8 @@
 25. 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
 26. 🔥 **Wide Sargasso Sea** by Jean Rhys ~ Postcolonial prequel to Jane Eyre telling the story of the mad woman in the attic
 27. 💪 **Taking Back My Power** by Georgia Harrison ~ Reality star's courageous fight for justice after revenge porn betrayal, changing UK law for image-based abuse victims
-
+28. 🍻 **Slags** by Emma Jane Unsworth ~ Two sisters embark on a whisky-fueled Scottish road trip, confronting 90s teenage trauma and the long shadow of who they used to be
+29. 🕶️ (🎧) **A Hymn to Life** by Gisèle Pelicot ~ Courageous memoir of survival and defiance after discovering her husband drugged and orchestrated her abuse for a decade 
 ---
 
 ## 2025
