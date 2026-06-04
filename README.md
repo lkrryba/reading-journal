@@ -38,7 +38,8 @@
 28. 🍻 **Slags** by Emma Jane Unsworth ~ Two sisters embark on a whisky-fueled Scottish road trip, confronting 90s teenage trauma and the long shadow of who they used to be
 29. 🕶️ (🎧) **A Hymn to Life** by Gisèle Pelicot ~ Courageous memoir of survival and defiance after discovering her husband drugged and orchestrated her abuse for a decade
 30. 🙌 (🎧) **The Let Them Theory** by Mel Robbins ~ Stop trying to control everyone and everything. Focus on yourself and find freedom in two simple words.
-31. ⚖️ **The Fall** by Albert Camus ~ A former Parisian lawyer's confessional monologue in an Amsterdam bar, exploring guilt, judgment, and moral hypocrisy
+31. 🌿 **The Jewel Garde**n by Monty & Sarah Don ~ Memoir of financial ruin, depression, and the Herefordshire garden that helped rebuild their lives
+32. ⚖️ **The Fall** by Albert Camus ~ A former Parisian lawyer's confessional monologue in an Amsterdam bar, exploring guilt, judgment, and moral hypocrisy
 ---
 
 ## 2025
