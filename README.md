@@ -40,6 +40,7 @@
 30. 🙌 (🎧) **The Let Them Theory** by Mel Robbins ~ Stop trying to control everyone and everything. Focus on yourself and find freedom in two simple words.
 31. 🌿 **The Jewel Garde**n by Monty & Sarah Don ~ Memoir of financial ruin, depression, and the Herefordshire garden that helped rebuild their lives
 32. ⚖️ **The Fall** by Albert Camus ~ A former Parisian lawyer's confessional monologue in an Amsterdam bar, exploring guilt, judgment, and moral hypocrisy
+33. 🚜 **A Short History of Tractors in Ukrainian** by Marina Lewycka ~ Two feuding sisters reluctantly unite when their elderly father falls for a voluptuous Ukrainian thirty-something.
 ---
 
 ## 2025
