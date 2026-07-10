@@ -42,6 +42,7 @@
 32. ⚖️ **The Fall** by Albert Camus ~ A former Parisian lawyer's confessional monologue in an Amsterdam bar, exploring guilt, judgment, and moral hypocrisy
 33. 🚜 **A Short History of Tractors in Ukrainian** by Marina Lewycka ~ Two feuding sisters reluctantly unite when their elderly father falls for a voluptuous Ukrainian thirty-something.
 34. 🇰🇵 **Pyongyang: A Journey in North Korea** by Guy Delisle ~ Sardonic graphic novel memoir of two months inside the world's most secretive state, armed with a work visa and a copy of 1984.
+35. 🦅 **Rebel** by Rahaf Mohammed ~ Gripping memoir of an eighteen-year-old who barricaded herself in a Bangkok hotel room and tweeted her way to asylum, exposing the brutal reality of Saudi Arabia's male guardianship system 
 ---
 
 ## 2025
